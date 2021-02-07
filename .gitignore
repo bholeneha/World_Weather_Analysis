@@ -33,6 +33,7 @@ config.py
 #Other Files Not to be tracked
 API_practice.ipynb
 Practice
+weather_data
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
